@@ -185,8 +185,9 @@ window.onclick = function(event) {
 </html>
 ```
 # OUTPUT:
-![alt text](<galpro/galapp/static/Screenshot 2025-05-13 144128.png>)
-![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002747.png>)
+<img width="1046" height="586" alt="{EF10C1D2-CDBF-4FD5-943C-4428110D18B3}" src="https://github.com/user-attachments/assets/1a213930-ffe2-432d-9173-adb564d554e7" />
+
+<img width="1046" height="553" alt="{85AD5172-A97C-4CBB-9914-F0C628EB2E2F}" src="https://github.com/user-attachments/assets/7cb92872-c5ec-42d7-bb78-6c49a20744b5" />
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
